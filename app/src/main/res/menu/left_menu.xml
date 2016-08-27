@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_view_animations"
+            android:icon="@drawable/ic_rowing_24dp"
+            android:title="@string/menu_view_animations"
+            android:checked="true"
+            />
+
+        <item
+            android:id="@+id/menu_property_animations"
+            android:icon="@drawable/ic_crop_rotate_24dp"
+            android:title="@string/menu_property_animations"/>
+
+        <item
+            android:id="@+id/menu_drawable_animations"
+            android:icon="@drawable/ic_gavel_24dp"
+            android:title="@string/menu_drawable_animations"/>
+
+        <item
+            android:id="@+id/menu_scene_one_pa"
+            android:icon="@drawable/ic_event_seat_24dp"
+            android:title="@string/menu_scene_one_pa"/>
+
+        <item
+            android:id="@+id/menu_scene_two_pa"
+            android:icon="@drawable/ic_settings_brightness_24dp"
+            android:title="@string/menu_scene_two_pa"/>
+
+    </group>
+</menu>

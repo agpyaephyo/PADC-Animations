@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PADC-Animations</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_view_animate">Start View Animation</string>
+
+    <string name="menu_view_animations">View Animations</string>
+    <string name="menu_property_animations">Property Animations</string>
+    <string name="menu_drawable_animations">Drawable Animations</string>
+    <string name="menu_scene_one_pa">Scene One (PA)</string>
+    <string name="menu_scene_two_pa">Scene Two (PA)</string>
+</resources>
